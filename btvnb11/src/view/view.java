@@ -53,6 +53,7 @@ public class view extends javax.swing.JFrame {
         loadCboTen();
         showCboMa();
         showCboTen();
+        //alooooo
     }
 
     private void loadCboTen() {
